@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-AI Automation Architect & SecOps Web Developer | n8n, SEO & Secure Workflows 🚀
+AI Automation Architect & SecOps Web Developer | Modern Web, SEO & Secure AI Workflows 🚀
 </h4>
 
 <p align="center">
