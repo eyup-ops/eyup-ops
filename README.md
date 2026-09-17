@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eyup
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eyup (EyupOps)
 </h1>
 
 <h4 align="center">
-AI Automation Engineer | n8n Workflow Specialist | CRM & API Integrations 🚀
+AI Automation Architect & SecOps Web Developer | n8n, SEO & Secure Workflows 🚀
 </h4>
 
 <p align="center">
@@ -14,30 +14,14 @@ AI Automation Engineer | n8n Workflow Specialist | CRM & API Integrations 🚀
 
 ### 🚀 About Me
 
-I specialize in building AI-powered automation systems that eliminate manual work, connect business tools, and streamline business operations.
+I specialize in building **AI-powered automation systems, secure backend infrastructures, and fast, SEO-optimized modern websites** designed to scale business operations.
 
-My primary focus is designing scalable workflow architectures using **n8n**, **APIs**, **CRMs**, and modern AI tools to automate lead management, data processing, and internal workflows.
+As an **Automation & SecOps Engineer**, I bridge the gap between heavy API orchestrations and airtight system security. I build resilient pipelines that handle high-volume data loops, prevent leakages of sensitive customer info, and maximize organic search traffic.
 
-- 🤖 **Automation Engineering:** n8n workflows, AI agents, webhooks, and process automation.
-- 🔗 **Systems Integration:** CRM automation, API integrations, and workflow orchestration.
-- 📈 **Business Automation:** Lead capture systems, follow-up automation, and operational efficiency.
-- 🛠️ **Technical Foundation:** Modern development, infrastructure, and scalable system design.
-
----
-
-### 📌 Featured Projects
-
-🚀 **Reddit Lead Finder Automation**
-- AI-powered lead discovery and intent scoring system built with n8n and Gemini AI.
-
-⚙️ **CRM Automation Systems**
-- Automated lead capture, CRM synchronization, and follow-up workflows.
-
-🤖 **AI Workflow Automation**
-- API-driven automation systems powered by AI decision-making and data processing.
-
-🏗️ **Business Process Automation**
-- End-to-end workflow architectures connecting multiple tools into unified systems.
+- 🐋 **Advanced Automation:** Production-grade n8n clusters, autonomous AI agents, and custom webhook logic.
+- 🛡️ **SecOps & Hardening:** Secure API token management, safe data handling practices, and automated logging.
+- 🌐 **Web & Organic Growth:** Next.js frameworks, programmatics database schemas, and hard-hitting Technical SEO.
+- ⚙️ **Platform Migrations:** Moving high-cost enterprise workflows from Zapier directly to high-performance, self-hosted n8n instances to slash operational bills.
 
 ---
 
@@ -45,15 +29,15 @@ My primary focus is designing scalable workflow architectures using **n8n**, **A
 
 <p align="left">
   <a href="mailto:eyupst@proton.me" target="blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/proton-mail-icon.png" alt="proton" height="30" width="40" />
+    <img align="center" src="https://githubusercontent.com" alt="protonmail" height="35" width="35" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ey%C3%BCp-selim-t/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="35" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~01bd0c699cab012207" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="upwork" height="50" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="upwork" height="35" width="35" />
   </a>
 </p>
 
@@ -61,83 +45,42 @@ My primary focus is designing scalable workflow architectures using **n8n**, **A
 
 ### 🛠️ Languages and Tools
 
-#### Intelligent Automations
-
+#### 🐋 Intelligent Automation & AI
 <p align="left">
-<a href="https://n8n.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" width="40" height="40"/>
-</a>
-
-<a href="https://www.make.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/make-color.png" width="40" height="40"/>
-</a>
-
-<a href="https://zapier.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
+<a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.make.com/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/make-color.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
 
-#### Development
-
+#### 🌐 Web Engineering & SEO
 <p align="left">
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 </p>
 
-#### Infrastructure
-
+#### 🛡️ SecOps & Infrastructure
 <p align="left">
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Strategic Mission
 
-- Building advanced n8n automation systems
-- CRM & lead management automation
-- AI-powered workflow engineering
-- API integrations & business process automation
-- Scalable automation infrastructure
+- Designing and deploying bulletproof n8n cloud/on-prem ecosystems.
+- Hardening corporate workflows against data breaches and API credential exposures.
+- Building high-converting web applications with top-tier technical SEO performance.
+- Automating manual tasks to save teams hundreds of hours of monthly overhead.
 
 ---
 
 <p align="center">
-Building systems that save time, reduce operational overhead, and scale businesses.
+<b>Engineering secure, fast, and automated backends that actively grow corporate revenue.</b>
 </p>
-```
