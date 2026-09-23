@@ -25,24 +25,6 @@ As an **Automation & SecOps Engineer**, I bridge the gap between heavy API orche
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:eyupst@proton.me" target="blank">
-    <img align="center" src="https://githubusercontent.com" alt="protonmail" height="35" width="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ey%C3%BCp-selim-t/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01bd0c699cab012207" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="upwork" height="35" width="35" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 #### 🐋 Intelligent Automation & AI
